@@ -12,6 +12,12 @@
 node index.js -s /path/to/folder
 ```
 or
+
 ```bash
 node index.js --source-folder /path/to/folder
+```
+or
+
+```bash
+node index.js --source-folder /path/to/folder --target-folder /path/to/another/folder
 ```
